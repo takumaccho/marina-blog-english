@@ -31,7 +31,7 @@
 **File:** `index.html`
 **Line:** Around line 6
 ```html
-<title>Marina's Growth Journey</title>
+<title>Risa's Growth Journey</title>
 ```
 
 ### 🎨 Change Colors
@@ -94,6 +94,6 @@
 
 ## 📞 Need Help?
 
-- **GitHub Docs**: https://docs.github.com/en/repositories/working-with-files
+- **GitHub Docs**: https://docs.github.com/en/repositories/working-with-files  
 - **HTML Reference**: https://developer.mozilla.org/en-US/docs/Web/HTML
 - **CSS Reference**: https://developer.mozilla.org/en-US/docs/Web/CSS

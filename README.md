@@ -1,6 +1,6 @@
-# Marina's Growth Journey - English Version
+# Risa's Growth Journey - English Version
 
-English version homepage of Marina's personal growth blog, translated from the Japanese original at https://marina-blog.com/
+English version homepage of Risa's personal growth blog, translated from the Japanese original at https://marina-blog.com/
 
 ## 🌐 Live Site
 https://takumaccho.github.io/marina-blog-english/
